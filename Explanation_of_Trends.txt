@@ -1,0 +1,5 @@
+
+Data insight 1:
+1) The vast majority of players are male (81.15%)
+2) Age group 20-24 is a plurality of players (45.03%)
+3) Those who have not chosen a binary gender purchase the most expensive items (avg price = $3.25/item)
